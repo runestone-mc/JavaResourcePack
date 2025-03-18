@@ -1,0 +1,26 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/paper"
+        },
+        "entries": [
+            {
+                "threshold": 1010,
+                "model": {
+                    "type": "model",
+                    "model": "custom/invisibleitem"
+                }
+            },
+            {
+                "threshold": 2,
+                "model": {
+                    "type": "model",
+                    "model": "custom/xp-bar"
+                }
+            }
+        ]
+    }
+}
