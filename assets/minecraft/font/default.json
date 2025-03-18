@@ -8,6 +8,43 @@
         {"type": "bitmap", "file": "minecraft:menu/tribes-tribes.png","ascent": 21,"height": 140,"chars": ["輋"]},
         {"type": "bitmap", "file": "minecraft:menu/tribes-tribes-tribe.png","ascent": 21,"height": 140,"chars": ["号"]},
         {"type": "bitmap", "file": "minecraft:menu/tribes-forge.png","ascent": 21,"height": 140,"chars": ["鿁"]},
-        {"type": "bitmap", "file": "minecraft:menu/tribes-forge-category.png","ascent": 21,"height": 140,"chars": ["晊"]}
+        {"type": "bitmap", "file": "minecraft:menu/tribes-forge-category.png","ascent": 21,"height": 140,"chars": ["晊"]},
+    
+        {
+            "type": "bitmap",
+            "file": "minecraft:gui\/container\/brewing_guide_left.png",
+            "ascent": 13,
+            "height": 100,
+            "chars": [
+                "\ueff1"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:gui\/container\/brewing_guide_right.png",
+            "ascent": 13,
+            "height": 206,
+            "chars": [
+                "\ueff2"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:gui\/sprites\/hud\/hunger_preview_half.png",
+            "ascent": 8,
+            "height": 16,
+            "chars": [
+                "\ueff3"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:gui\/sprites\/hud\/hunger_preview_full.png",
+            "ascent": 8,
+            "height": 16,
+            "chars": [
+                "\ueff4"
+            ]
+        }
     ]
 }
