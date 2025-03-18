@@ -8,13 +8,13 @@
       "predicate": {
         "custom_model_data": 1010
       },
-      "model": "custom/invisibleitem"
+      "model": "minecraft:custom/invisibleitem"
     },
     {
       "predicate": {
         "custom_model_data": 2
       },
-      "model": "custom/xp-bar"
+      "model": "minecraft:custom/xp-bar"
     }
   ]
 }

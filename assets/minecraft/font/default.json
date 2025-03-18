@@ -1,8 +1,8 @@
 {
     "providers": [
-        {"type": "bitmap", "file": "minecraft:default/pixel.png","ascent": -2000,"height": -3,"chars": ["₴"]},
+        {"type": "bitmap", "file": "minecraft:item/pixel.png","ascent": -2000,"height": -3,"chars": ["₴"]},
         
-        {"type": "bitmap", "file": "minecraft:menu/template.png","ascent": 21,"height": 140,"chars": ["☀"]},
+        {"type": "bitmap", "file": "minecraft:menu/template-9x6.png","ascent": 21,"height": 140,"chars": ["☀"]},
 
         {"type": "bitmap", "file": "minecraft:menu/tribes-roles.png","ascent": 21,"height": 140,"chars": ["塿"]},
         {"type": "bitmap", "file": "minecraft:menu/tribes-tribes.png","ascent": 21,"height": 140,"chars": ["輋"]},

@@ -2,7 +2,7 @@
     "credit": "Made with Blockbench",
     "parent": "item/generated",
     "textures": {
-        "layer0": "xp-bar",
-        "layer1": "xp-bar"
+        "layer0": "item/xp-bar",
+        "layer1": "item/xp-bar"
     }
 }
