@@ -1,0 +1,92 @@
+{
+    "parent": "item/generated",
+    "textures": {
+      "layer0": "item/coal"
+    },
+    "overrides": [
+      {
+        "predicate": {
+          "custom_model_data": 2000
+        },
+        "model": "minecraft:custom/unbinder"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 1
+        },
+        "model": "minecraft:custom/runestone-arrow-damage"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 2
+        },
+        "model": "minecraft:custom/runestone-attack-speed"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 3
+        },
+        "model": "minecraft:custom/runestone-breaking-power"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 4
+        },
+        "model": "minecraft:custom/runestone-breaking-speed"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 5
+        },
+        "model": "minecraft:custom/runestone-critical-damage"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 6
+        },
+        "model": "minecraft:custom/runestone-damage"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 7
+        },
+        "model": "minecraft:custom/runestone-defence"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 8
+        },
+        "model": "minecraft:custom/runestone-health"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 9
+        },
+        "model": "minecraft:custom/runestone-jump"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 10
+        },
+        "model": "minecraft:custom/runestone-luck"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 11
+        },
+        "model": "minecraft:custom/runestone-movement"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 12
+        },
+        "model": "minecraft:custom/runestone-strength"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 13
+        },
+        "model": "minecraft:custom/runestone-throwing-damage"
+      }
+    ]
+  }
