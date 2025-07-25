@@ -12,6 +12,7 @@
         {"type": "bitmap", "file": "minecraft:menu/tribes-forge-category.png","ascent": 21,"height": 140,"chars": ["晊"]},
 
         {"type": "bitmap", "file": "minecraft:menu/center.png","ascent": 21,"height": 140,"chars": ["\ueff5"]},
+        {"type": "bitmap", "file": "minecraft:menu/center-upgrades.png","ascent": 21,"height": 140,"chars": ["\ueff6"]},
     
         {
             "type": "bitmap",
