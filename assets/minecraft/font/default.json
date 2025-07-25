@@ -10,6 +10,8 @@
         {"type": "bitmap", "file": "minecraft:menu/tribes-tribes-tribe.png","ascent": 21,"height": 140,"chars": ["号"]},
         {"type": "bitmap", "file": "minecraft:menu/tribes-forge.png","ascent": 21,"height": 140,"chars": ["鿁"]},
         {"type": "bitmap", "file": "minecraft:menu/tribes-forge-category.png","ascent": 21,"height": 140,"chars": ["晊"]},
+
+        {"type": "bitmap", "file": "minecraft:menu/center.png","ascent": 21,"height": 140,"chars": ["\ueff5"]},
     
         {
             "type": "bitmap",
