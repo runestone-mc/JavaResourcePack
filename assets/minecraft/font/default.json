@@ -13,6 +13,7 @@
 
         {"type": "bitmap", "file": "minecraft:menu/center.png","ascent": 21,"height": 140,"chars": ["\ueff5"]},
         {"type": "bitmap", "file": "minecraft:menu/center-upgrades.png","ascent": 21,"height": 140,"chars": ["\ueff6"]},
+        {"type": "bitmap", "file": "minecraft:menu/center-upgrades-land.png","ascent": 21,"height": 140,"chars": ["\ueff7"]},
     
         {
             "type": "bitmap",
