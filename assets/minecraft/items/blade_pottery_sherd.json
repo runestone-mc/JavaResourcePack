@@ -4,7 +4,7 @@
         "property": "custom_model_data",
         "fallback": {
             "type": "model",
-            "model": "item/coal"
+            "model": "item/blade_pottery_sherd"
         },
         "entries": [
             {
