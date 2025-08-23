@@ -11,9 +11,11 @@
         {"type": "bitmap", "file": "minecraft:menu/tribes-forge.png","ascent": 21,"height": 140,"chars": ["鿁"]},
         {"type": "bitmap", "file": "minecraft:menu/tribes-forge-category.png","ascent": 21,"height": 140,"chars": ["晊"]},
 
-        {"type": "bitmap", "file": "minecraft:menu/center.png","ascent": 21,"height": 140,"chars": ["\ueff5"]},
-        {"type": "bitmap", "file": "minecraft:menu/center-upgrades.png","ascent": 21,"height": 140,"chars": ["\ueff6"]},
-        {"type": "bitmap", "file": "minecraft:menu/center-upgrades-land.png","ascent": 21,"height": 140,"chars": ["\ueff7"]},
+        {"type": "bitmap", "file": "minecraft:menu/center.png","ascent": 21,"height": 140,"chars": ["\ueff6"]},
+        {"type": "bitmap", "file": "minecraft:menu/center-upgrades.png","ascent": 21,"height": 140,"chars": ["\ueff7"]},
+        {"type": "bitmap", "file": "minecraft:menu/center-upgrades-land.png","ascent": 21,"height": 140,"chars": ["\ueff8"]},
+
+        {"type": "bitmap", "file": "minecraft:menu/teleporters.png","ascent": 21,"height": 140,"chars": ["\ueff9"]},
     
         {
             "type": "bitmap",
